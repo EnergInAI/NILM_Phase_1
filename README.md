@@ -286,22 +286,13 @@ MIT License
 * **ML Framework:** PyTorch
 * **Domain:** Energy Disaggregation (NILM)
 
----
-
-## ⭐ Repository Status
-
-* Stars: 0
-* Forks: 0
-* Releases: None
-
----
-
 ## 🚀 Suggested Workflows
 
-* Python Package
+* Python Package version 3.10.0
 * Python Package with Anaconda
 * Pylint (Code Quality)
 
 ---
 
 **Author:** Brajesh Ahirwar
+
